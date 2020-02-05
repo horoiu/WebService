@@ -1,0 +1,7 @@
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstWebService\bin\myFirstWebService.dll.config
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstWebService\bin\myFirstWebService.dll
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstWebService\bin\myFirstWebService.pdb
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstWebService\obj\Debug\myFirstWebService.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstWebService\obj\Debug\myFirstWebService.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstWebService\obj\Debug\myFirstWebService.dll
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstWebService\obj\Debug\myFirstWebService.pdb

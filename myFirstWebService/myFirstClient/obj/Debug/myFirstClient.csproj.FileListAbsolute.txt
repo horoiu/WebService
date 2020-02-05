@@ -1,0 +1,8 @@
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstClient\bin\Debug\myFirstClient.exe.config
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstClient\bin\Debug\myFirstClient.exe
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstClient\bin\Debug\myFirstClient.pdb
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstClient\obj\Debug\myFirstClient.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstClient\obj\Debug\myFirstClient.exe
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstClient\obj\Debug\myFirstClient.pdb
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstClient\bin\Debug\myFirstClient.exe.CodeAnalysisLog.xml
+C:\Users\mario\source\repos\Aplicatie-1\myFirstWebService\myFirstClient\bin\Debug\myFirstClient.exe.lastcodeanalysissucceeded
